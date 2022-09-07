@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+  <html lang="vi-VN" dir="ltr" >
+
+  <head>
+      <link rel="icon" href="https://s.ytimg.com/yts/favicon-vfl8qSV2F.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://s.ytimg.com/yts/favicon-vfl8qSV2F.ico" type="image/x-icon"> 
+      <title>
+       Rất tiếc! Đã xảy ra lỗi. -
+    YouTube
+  </title>
+
+    
+      <meta name="description" content="Chia sẻ video của bạn với bạn bè, gia đình và mọi người">
+
+      <meta name="keywords" content="video, chia sẻ, điện thoại chụp ảnh, điện thoại video, miễn phí, tải lên">
+
+  
+
+        <link rel="stylesheet" href="/yts/cssbin/www-core-webp-vflV9xFYf.css" name="www-core">
+
+    <link rel="stylesheet" href="/yts/cssbin/www-error-webp-vflvD9R0Z.css" name="www-error">
+
+    <link rel="stylesheet" href="/yts/cssbin/www-pageframe-webp-vflNhyrzR.css" name="www-pageframe">
+
+  <style>
+#yt-masthead {
+      width: 440px;
+      margin: 25px auto;
+    }
+#logo-container {
+      float: left;
+    }
+#alerts {
+      padding-bottom: 40px;
+    }
+#yt-masthead #logo-container .logo {
+      width: 100px;
+    }
+  </style>
+    <style>
+     .exp-invert-logo #header:before, .exp-invert-logo .ypc-join-family-header .logo, .exp-invert-logo #footer-logo .footer-logo-icon, .exp-invert-logo #yt-masthead #logo-container .logo, .exp-invert-logo #masthead #logo-container, .exp-invert-logo .admin-masthead-logo a, .exp-invert-logo #yt-sidebar-styleguide-logo #logo { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_small_2x-vfl4_cFqn.png); background-size: 100px 30px; } .exp-invert-logo #yt-masthead #logo-container .logo-red { background: no-repeat url(/yts/img/ringo/hitchhiker/logo_youtube_red_2x-vflOSHA_n.png); background-size: 132px 30px; } @media only screen and (min-width: 0px) and (max-width: 498px), only screen and (min-width: 499px) and (max-width: 704px) { .exp-invert-logo.exp-responsive #yt-masthead #logo-container { background: no-repeat url(/yts/img/ringo/hitchhiker/yt_play_logo_2x-vflXx5Pg3.png); background-size: 40px 28px; } } .guide-sort-container {display: none}
+    </style>
+
+    <!-- Smart CSS Insertion -->
+  </head>
+  
+
+
+  <body id="" class="date-20201016 vi_VN ltr lite exp-invert-logo exp-kevlar-settings exp-mouseover-img exp-responsive exp-search-big-thumbs   site-center-aligned site-as-giant-card  webkit webkit-537" dir="ltr">
+
+    <!-- begin page -->
+    <div id="page" class="  oops-content">
+        <div id="content-container">
+    <!-- begin content -->
+      <div id="content">
+          <div id="alerts" class="content-alignment   oops-content">
+    
+  </div>
+  <img src="/yts/img/tv_stack-vflmeOpv_.png" alt="Rất tiếc, đã xảy ra lỗi! YouTube chắc hẳn đã gặp sự cố." title="Rất tiếc, đã xảy ra lỗi! YouTube chắc hẳn đã gặp sự cố.">
+  <div id="yt-masthead">
+    <a id="logo-container" href="/" title="Trang chủ YouTube" class=" spf-link  masthead-logo-renderer yt-uix-sessionlink" data-sessionlink=""><span class="logo masthead-logo-renderer-logo yt-sprite" title="Trang chủ YouTube"></span><span class="content-region">VN</span></a>
+    <form id="masthead-search" class="  search-form consolidated-form  vve-check" action="/results" onsubmit="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;" data-clicktracking="" data-visibility-tracking=""><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default search-btn-component search-button" type="submit" onclick="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; document.getElementById(&#39;masthead-search&#39;).submit(); return false;;return true;" dir="ltr" id="search-btn" tabindex="2"><span class="yt-uix-button-content">Tìm kiếm</span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><input id="masthead-search-term" autocomplete="off"  onkeydown="if (!this.value &amp;&amp; (event.keyCode == 40 || event.keyCode == 32 || event.keyCode == 34)) {this.onkeydown = null; this.blur();}" class="search-term masthead-search-renderer-input yt-uix-form-input-bidi" name="search_query" value="" type="text" tabindex="1" placeholder="Tìm kiếm" title="Tìm kiếm" aria-label="Tìm kiếm"></div></form>
+  </div>
+
+      </div>
+    <!-- end content -->
+  </div>
+
+    </div>
+    <!-- end page -->
+    
+    <!-- Smart JS Insertion -->
+  </body>
+</html>
